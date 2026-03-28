@@ -83,6 +83,10 @@ resources/views/          # Vistas Blade organizadas por módulo
 routes/web.php            # Definición de rutas
 ```
 
+## Desarrollado por
+
+Este proyecto ha sido desarrollado por **VérticeDev** — [verticedev.es](https://verticedev.es)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la [MIT License](https://opensource.org/licenses/MIT).
